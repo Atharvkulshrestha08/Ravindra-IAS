@@ -1,3 +1,9 @@
+> ### 🛡️ Author & Original Creator
+> **Atharv Kulshrestha** — [@Atharvkulshrestha08](https://github.com/Atharvkulshrestha08)  
+> *This repository and its codebase are the original work of Atharv Kulshrestha. All rights reserved.*
+
+---
+
 # Ravindra IAS Website
 > Premium UPSC Coaching Institute Website - Built with Next.js 14
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
